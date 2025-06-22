@@ -14,7 +14,7 @@ This project demonstrates a full streaming data pipeline built in Python using:
 
 ## Data Flow
 
-<img width="502" alt="image" src="https://github.com/user-attachments/assets/6d8239fa-7d5e-4280-8b4e-228d1373604e" />
+<img width="496" alt="image" src="https://github.com/user-attachments/assets/4036fe7a-de61-4e1f-ad44-9433d1c4d74b" />
 
 ## Setup Instructions
 
