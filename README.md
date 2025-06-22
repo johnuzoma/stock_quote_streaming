@@ -1,4 +1,4 @@
-# 📈 Stock Quote Streaming Pipeline
+# Stock Quote Streaming Pipeline
 
 A real-time data pipeline that streams live stock quotes from the Finnhub API, publishes them to Kafka, transforms them using Faust, and (optionally) stores them in a PostgreSQL database.
 
